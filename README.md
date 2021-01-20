@@ -2,4 +2,4 @@
 
 # install Newtonsoft.Json
 
-# in Constants.cs add apiKey (your valid kiey from openwheathermap)
+# in Constants.cs add apiKey (your valid key from openwheathermap)
