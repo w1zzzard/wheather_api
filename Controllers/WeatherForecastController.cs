@@ -30,7 +30,7 @@ namespace wheather_api.Controllers
     ///
     ///     GET /WheatherForecast/CurrentWheatherByCityName?city=dnipro
     ///     {
-    ///        "dt": "",  
+    ///        "dt": "1611144000",  
     ///        "temp": 3,
     ///        "wind": 34
     ///        "clouds": 1
